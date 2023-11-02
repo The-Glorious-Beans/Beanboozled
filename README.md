@@ -1,2 +1,2 @@
 # Beanboozled
-Imagine if you were a bean. Thats-- that's the entire game.
+Imagine if you were a bean. Thats it- that's the entire game.
